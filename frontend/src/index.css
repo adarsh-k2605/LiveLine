@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  background-color: #020617;
+  color: rgb(226 232 240);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  color: rgb(96 165 250);
+  text-underline-offset: 4px;
+}
+
+
